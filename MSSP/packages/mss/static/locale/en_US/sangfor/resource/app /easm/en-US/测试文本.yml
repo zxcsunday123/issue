@@ -1,0 +1,47 @@
+'mss.browser.desc': '111 11'
+"transfer.pre_title.text": "1"
+"mss.const_loophole.allVerified.text": "11"
+"mss.dataPkgAnalysis.threat_intelligence.domain_service_provider.label": "111111111111"
+'mss.component_common_treeAssetGroupTree.placeholder.input': ''
+'mss.component_common_treeAssetGroupTree.intranetTip.text': '11111111111111111'
+'mss.mod_technocracy.expert_normalExpertTab_expertOperateCenterSelect.placeholder': '111111111111111111111111111111111111'
+"mss.mod_toolbox.actionInput.multiInputMinItems3.text": "111111111111111111111"
+'mss.mod_toolbox_taskList.canDialogTip.text': '111111111111111111'
+'mss.mod_browser.current_browser_version': '测试测试测试'
+'mss.util_portOrRange.invalidText.tooltip': '第二次尝试 Port must be 0-65535.'
+"mss.util_tool.common_valid.result_tooltip": "Row {index}: \"{item}\" is invalid. {result}"
+"mss.dataPkgAnalysis.threat_intelligence.alarm_count.text": "(ovs){count} times ({range})"
+"login.bg_words.visible_controllable": ""
+"network.http_code.401": "Re-login"
+"common.api.value.from_business_asset_security": "[Specified] Added from Business Asset Security"
+"components.api_component.area_group_list_trigger.area_group_list_trigger_new.select": "Search/Select"
+"components.api_component.area_group_list_trigger.area_group_list_trigger_new.cannot_exceed_0": "Number of zones cannot exceed {0}."
+"home.afterload.af_spec.edr_expire.please_renew_the_license.todo_146": "Endpoint Secure will expire in less than 30 days. To protect your endpoints, please renew the license."
+"industry.term.ip_address_2001abc": "IP address: 2001::abc"
+sase.component.date_range_picker_limit_day: 'Last {day} days'
+global.password.label: Password
+sase.header.user_info_id: "CorpID:"
+sase.home.overview_offline: 'Not Connected/Abnormal'
+sase.log_center.columns.target_host: '主机(removed)'
+sase.warning.overview_disposal_rate.tip: 'Fix rate = Fixed/Total, Fixed = Processed + Resolved + Ignored'
+'dmp.util.verify.dts_database_password_tip': 'Must be 8-64 characters long and can contain only letters, digits, and special characters (()\`~!#$%^&*_-+=|{}[]:''<>,.?/@).'
+'dmp.util.verify.dts_database_password_no_limit_tip': 'Must be 1-64 characters long and can contain only letters, digits, and special characters (()\`~!#$%^&*_-+=|{}[]:''<>,.?/@).'
+eds.framework.2rnNmNhQQnerzXuBCNeLzq: ""
+'global.colon': ':'
+'global.slightPause': '.'
+'global.stopSign': ','
+'global.comma': ','
+'global.period': '.'
+'global.semicolon': ';'
+'global.left_brack': '('
+'global.right_brack': ')'
+'global.double_quotation_marks': '"'
+'global.question_mark': '?'
+'global.exclamation': '!'
+eds.storage_topology.9smQALbTnFmDt8akFsrE8X: IQN：
+eds.mixins.iiQR8U4JKQ2ztt2j5o9W5T: "Invalid: {failedValue} ({failedRatioValue}%)"
+eds.util.1MRJwF1j33DYh4BDtnvQAq: "{suggestIPValue}/{maskValue}"
+"hci.home.mod_vnet.up_sn.only_edges_can_be_configured_text": "Only edges can be configured, and you can connect to physical network via an edge. To configure distributed switches, edge virtual routers, {upSnLink}. You can also {seeAsvLink} or {tryAsvLink}."
+remrcMgt.appPath.example_one: 1.C:\Program Files\Office\word.exe
+remrcMgt.appPath.example_two: 2.%ProgramFiles%\Office\word.exe
+xdr.bigscreen.security_effect.desc: 'Monitors the security performance of Omni-Command, the network-wide capability center, from data ingestion, parsing, and preparation to engine operation and alert/incident generation, visualizing Omni-Command capabilities.'
